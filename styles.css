@@ -121,8 +121,8 @@ align-items: center;
 }
 
 .colors_selector--custom h3 {
-    font-size: 16px;
-    color: white;
+    font-size: 12px;
+    color: rgb(227, 26, 26);
 }
 
 .colors_selector--custom button {
